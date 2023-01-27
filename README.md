@@ -1,15 +1,13 @@
-# 🪙🏴‍☠️ Awesome Tokenomics and DAOs
+# 🪙🏴‍☠️ Tokenomics and DAOs
 
 <br>
 
-----
-
-## Tokenomics Evaluation Framework
+## TL;DR: Tokenomics Evaluation Framework
 
 <br>
 
 
-### Supply
+#### Supply
 
 1. Based on supply alone, will this token hold or increase it’s value? Or will that value be inflated away?
 2. How many tokens exist today?
@@ -20,7 +18,7 @@
 
 <br>
 
-### Demand 
+#### Demand 
 
 
 <br>
@@ -45,6 +43,7 @@
 
 <br>
 
+* [Token Design: Mental Models, Capabilities](https://www.youtube.com/watch?v=GOkxDvq_8zQ)
 * [Harmony Economic Model](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
 * [Convex Finance Tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
 
@@ -85,7 +84,7 @@
 
 <br>
 
-### Interesting articles
+### Articles on DAOs
 
 <br>
 
@@ -145,7 +144,7 @@
 
 <br>
 
-### Tokenization 
+### Tokenization tools
 
 <br>
 
