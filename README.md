@@ -1,4 +1,4 @@
-## 🪙🏴‍☠️ Tokenomics and DAOs
+## 🪙🏴‍☠️ tokenomics and daos
 
 
 <br>
