@@ -10,6 +10,7 @@
 * [basics of tokenomics](basics.md)
 * [defi projects](defi_projects.md)
 * [resources on daos](daos.md)
+* [voter escrowed tokens](voter_escrowed_tokens.md)
 
 <br>
 
