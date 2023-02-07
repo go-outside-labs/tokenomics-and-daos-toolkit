@@ -190,3 +190,19 @@
 - [Banzhof power index](https://blog.coinfund.io/are-blockchain-voters-dummies-4a89a376de69) 
 - [Nakamoto coefficient](https://news.earn.com/quantifying-decentralization-e39db233c28e) 
 - [Web3 business models](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives) 
+
+
+
+---
+
+
+### resources and tools
+
+<br>
+
+* [cadCAD](http://cadcad.org/)
+* [Token engineering commons](https://tecommons.org/)
+* [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+* [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
+* [TokenSPICE](https://github.com/tokenspice/tokenspice)
+* [The Reverse Liquidity Bootstrapping Pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)
