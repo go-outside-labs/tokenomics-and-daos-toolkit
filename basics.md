@@ -1,13 +1,17 @@
-## tokenomics basics
+## 🦾 yokenomics basics
 
 <br>
 
 
 ### supply
 
+<br>
+
 * **Circulating supply:** How many tokens are in existence (in the market)?
 * **Max supply:** How many tokens will there be in total? 
 * **Total suppply:** all tokens already issued minus the ones that were burned/locked.
+
+<br>
 
 > If the circulating supply is low while the total and max are high: red flag as the value of your coins will get diluted away (more coins created will put pressure on the price).
 
@@ -19,6 +23,8 @@
 
 ### liquidity and valuation
 
+<br>
+
 * **Fully diluted valuation:** How will the supply change over time? 
 * **Market cap**: Current Price * circulating supply
 * **Fully Dilute:** Market cap: Price * max supply.
@@ -28,6 +34,8 @@
 ---
 
 ### distribution
+
+<br>
 
 * **Holders**: Who has the supply? WHEN can they sell?
 * **DAOs/project research**: What are their policies for changing?
@@ -58,6 +66,7 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 
 ### concerns
 
+<br>
 
 * The tokens were inflationary without enough utility.
 * Concentration of tokens by VCs & whales led to retail getting dumped on.
@@ -69,6 +78,7 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 
 ### what drives the demand 
 
+<br>
 
 * Utility (gas, fun, adoption)
 * Value Accrual (xStaking, governance)
