@@ -57,4 +57,7 @@
 * [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 * [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
 * [TokenSPICE](https://github.com/tokenspice/tokenspice)
+* [AraCred](github.com/aracred/)
+* [LinkDrop](https://linkdrop.io/)
+* [Coinvise](https://www.coinvise.co/)
 
