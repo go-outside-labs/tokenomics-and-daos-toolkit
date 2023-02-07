@@ -1,4 +1,4 @@
-## 🦾 yokenomics basics
+## 🍕 tokenomics basics
 
 <br>
 
