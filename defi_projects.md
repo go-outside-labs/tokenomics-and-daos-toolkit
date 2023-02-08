@@ -8,4 +8,5 @@
 * [harmony tokenomics](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
 * [convex tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
 * [gmx tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-gmx)
+* [tokemak tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-tokemak-toke)
 
