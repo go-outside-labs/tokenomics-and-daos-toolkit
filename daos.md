@@ -1,4 +1,4 @@
-## 🖤 resources on daos
+## resources on daos
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-### tools for daos
+### tools
 
 <br>
 
@@ -31,6 +31,14 @@
 - [DAOstack](https://daostack.io/) 
 - [DAO Metrics](https://daometrics.com/)
 - [Baal Moloch v3](https://baal-docs.vercel.app/)
+- [cadCAD](http://cadcad.org/)
+- [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
+- [TokenSPICE](https://github.com/tokenspice/tokenspice)
+- [AraCred](github.com/aracred/)
+- [LinkDrop](https://linkdrop.io/)
+- [Coinvise](https://www.coinvise.co/)
+
 
 
 
