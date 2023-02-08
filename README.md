@@ -22,9 +22,6 @@
 
 <br>
 
-#### articles 
-
-
 * [TokenEconomy book](https://github.com/sherminvo/TokenEconomyBook/wiki)
 * [token design: Mental Models, Capabilities](https://www.youtube.com/watch?v=GOkxDvq_8zQ)
 * [Tokenization explained by cointelegraph](https://cointelegraph.com/explained/tokenization-explained)
@@ -38,18 +35,4 @@
 * [The Reverse Liquidity Bootstrapping Pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)
 
 
-<br>
-
-
-
-#### tools
-
-* [cadCAD](http://cadcad.org/)
-* [Token engineering commons](https://tecommons.org/)
-* [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
-* [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
-* [TokenSPICE](https://github.com/tokenspice/tokenspice)
-* [AraCred](github.com/aracred/)
-* [LinkDrop](https://linkdrop.io/)
-* [Coinvise](https://www.coinvise.co/)
 
