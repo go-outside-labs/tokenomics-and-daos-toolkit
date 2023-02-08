@@ -1,4 +1,4 @@
-## 🍿 tokenomics for defi projects
+## tokenomics for defi projects
 
 <br>
 
