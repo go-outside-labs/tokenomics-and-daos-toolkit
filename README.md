@@ -9,8 +9,8 @@
 
 * [basics of tokenomics](basics.md)
 * [defi projects](defi_projects.md)
-* [resources on daos](daos.md)
-* [voter escrowed tokens](voter_escrowed_tokens.md)
+* [daos resources](daos.md)
+* [escrowed tokens](escrowed_tokens.md)
 
 <br>
 
@@ -33,6 +33,7 @@
 * [Analyzing Token Sale Models, by Vitalik](https://www.vitalik.ca/general/2017/06/09/sales.html)
 * [On the Meme of Market caps and Unlocks, by Cobie](https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks)
 * [The Reverse Liquidity Bootstrapping Pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)
+* [Token engineering commons](https://tecommons.org/)
 
 
 
