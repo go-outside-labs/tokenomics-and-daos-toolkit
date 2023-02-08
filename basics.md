@@ -1,4 +1,4 @@
-## 🍕 tokenomics basics
+## tokenomics basics
 
 <br>
 
