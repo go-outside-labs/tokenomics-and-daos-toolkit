@@ -21,3 +21,12 @@
 
 * short-term governance protection against whales (tokens are locked up)
 * fliexibility to choose locked up period
+
+
+<br>
+
+### resources
+
+<br>
+
+* [escrowed gmx docs](https://gmxio.gitbook.io/gmx/rewards#vesting)
