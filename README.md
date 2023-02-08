@@ -7,7 +7,7 @@
 
 <br>
 
-* [basics of tokenomics](basics.md)
+* [basics](basics.md)
 * [defi projects](defi_projects.md)
 * [daos resources](daos.md)
 * [escrowed tokens](escrowed_tokens.md)
