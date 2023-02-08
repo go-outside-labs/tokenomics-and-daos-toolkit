@@ -25,9 +25,9 @@
 
 #### case studies
 
-* [Token Design: Mental Models, Capabilities](https://www.youtube.com/watch?v=GOkxDvq_8zQ)
-* [Harmony Economic Model](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
-* [Convex Finance Tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
+* [harmony tokenomics](https://docs.google.com/spreadsheets/d/1bcABBb47X8jOAQC-Dno9A9HFtLf8vlRp70P9xVqjhG4/edit#gid=1322834538)
+* [convex tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
+* [gmx tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-gmx)
 
 <br>
 
@@ -35,6 +35,7 @@
 
 
 * [TokenEconomy book](https://github.com/sherminvo/TokenEconomyBook/wiki)
+* [token design: Mental Models, Capabilities](https://www.youtube.com/watch?v=GOkxDvq_8zQ)
 * [Tokenization explained by cointelegraph](https://cointelegraph.com/explained/tokenization-explained)
 * [Thoughts on tokens by Balaji](https://news.earn.com/thoughts-on-tokens-436109aabcbe)
 * [Intro to token distribution mechanisms](https://smithandcrown.com/research/introduction-to-token-distribution-mechanisms/)
