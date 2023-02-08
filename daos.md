@@ -1,9 +1,9 @@
-## resources on daos
+## daos
 
 <br>
 
 
-### general articles
+### articles
 
 <br>
 
