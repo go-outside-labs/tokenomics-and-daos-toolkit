@@ -9,4 +9,5 @@
 * [convex tokenomics](https://docs.convexfinance.com/convexfinance/general-information/tokenomics)
 * [gmx tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-gmx)
 * [tokemak tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-tokemak-toke)
+* [perpetual protocol tokenomics](https://tokenomicsdao.xyz/blog/tokenomics-101/tokenomics-101-perpetual-protocol/)
 
