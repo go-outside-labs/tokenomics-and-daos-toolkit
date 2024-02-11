@@ -33,6 +33,7 @@
 * **[analyzing token sale models, by vitalik](https://www.vitalik.ca/general/2017/06/09/sales.html)**
 * **[on the meme of market caps, by cobie](https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks)**
 * **[the reverse liquidity bootstrapping pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)**
+* **[tokenomics for investors](https://tokenomicsdao.substack.com/p/tokenomics-for-investors)**
 * **[token engineering commons](https://tecommons.org/)**
 
 
