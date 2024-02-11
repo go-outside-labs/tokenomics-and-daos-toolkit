@@ -35,6 +35,7 @@
 * **[the reverse liquidity bootstrapping pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)**
 * **[tokenomics for investors](https://tokenomicsdao.substack.com/p/tokenomics-for-investors)**
 * **[token engineering commons](https://tecommons.org/)**
+* **[tokenomics, releases, trends](https://docs.google.com/document/d/1UkAcL7-KAWANKWnebYemA-4bTXC0m9RKrV19aIoFKdY/edit#heading=h.f1o44ntj9vx9)**
 * **[dao tooling matrix_v1](https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811)**
 
 
